@@ -1,0 +1,40 @@
+<!-- 
+	Joshua Terry Resume site index page
+    Rules for this page
+	You cannot use frames.
+	You cannot use any styling attribute in elements (e.g., <h3 align="center">).
+	You cannot use absolute URLs for images.
+	You cannot use front-end frameworks such as Bootstrap.
+	You cannot use other people's CSS files.
+	You cannot use JavaScript (or jQuery for that matter; considering we have not covered JavaScript yet!)
+-->
+
+<html>
+
+	<head>
+		<!--  Adding stylesheet and heading-->
+			<link rel = "stylesheet" href="Assignment_1"/>
+			<meta charset = utf-8>
+			<title> Joshua Terry Portfilio </title>
+	<head>
+		<!-- Making header and navigation buttons to other sections --> 
+
+		
+	    <ul id="button-nav">
+		  <li class="button-item"><a href="index.html">Home</a></li>
+		  <li class="button-item"><a href="Bio">Bio</a></li>
+		  <li class="button-item"><a href="Resume">Resume</a></li>
+		</ul>
+
+		<h1> Joshua Terry's Bio Page </h1>
+	
+		<p> 
+
+		One of my biggest passions is helping things(ideas, products, and, companies) grow. I'm a big picture thinker, with the technical background to work out the small details. I have experience in product management, market research, financial analysis and user testing. I also have had wide industry exposure spanning from data services, legal research and finance.
+
+		<br><br> I am eagerly pursuing roles that exist at the intersection of technology and business.<br>
+
+		<br>I'm currently a Tufts Junior majoring in Human Factors Engineering; minoring in Entrepreneurship Leadership Studies (Business). A Hackley School graduate, and Reach Prep scholar. <br>
+
+		<p>
+<html>
