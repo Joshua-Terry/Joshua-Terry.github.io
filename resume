@@ -1,0 +1,117 @@
+<!-- 
+	Joshua Terry Resume site index page
+    Rules for this page
+	You cannot use frames.
+	You cannot use any styling attribute in elements (e.g., <h3 align="center">).
+	You cannot use absolute URLs for images.
+	You cannot use front-end frameworks such as Bootstrap.
+	You cannot use other people's CSS files.
+	You cannot use JavaScript (or jQuery for that matter; considering we have not covered JavaScript yet!)
+-->
+
+<html>
+
+	<head>
+		<!--  Adding stylesheet and heading-->
+			<link rel = "stylesheet" href="Assignment_1"/>
+			<meta charset = utf-8>
+			<title> Joshua Terry Portfilio </title>
+	<head>
+		<!-- Making header and navigation buttons to other sections --> 
+
+		
+	   <ul id="button-nav">
+		  <li class="button-item"><a href="index.html">Home</a></li>
+		  <li class="button-item"><a href="bio">Bio</a></li>
+		  <li class="button-item"><a href="resume">Resume</a></li>
+		</ul>
+	
+
+		<h1> Joshua Terry's Resume </h1>
+
+		<h2> Education</h2>
+		
+		<table>
+			<tr>
+				<td>Fall 2013 - Present: </td>
+				<td><span class="bold"> TUFTS UNIVERSITY</span>, Medford, Ma <br> Expected 2017 Graduate in Human Factors Engineering and ELS </td>
+			</tr>
+
+		</table>
+
+		<h2> Relevant Coursework</h2>
+		
+		<table>
+			<tr>
+				<td>Taken at Tufts </td>
+				<td> Web Programming, Data Structures (C++), Data Visualization (Java), Technical Communication, High Technology Entrepreneurship, Entrepreneurial Marketing, </td>
+			</tr>
+
+		</table>
+
+		  
+		
+		<h2> Experience</h2>
+			<table>
+				<tr>
+					<td>May 2015 - Preent </td>
+					<td> 	<span class="bold"> FreshAddress</span>, Newton, M<br> <span 		class="italic"> Product Manager</span>
+							
+							<ul class="bullets"> 
+								<li>Lead the entire lifecycle for two new products; API service and business intelligence tool/website</li>
+								<li>Managed communication between marketing, sales and tech teams </li>
+								<li>Projected cost of upcoming products; market-tested and developed pricing strategies </li>
+								<li>Designed and user-tested wireframes; utilized feedback to develop product specifications</li>
+							</ul>	
+					</td>
+				</tr>
+
+				<tr>
+					<td>May 2014 - Aug 2014</td>
+					<td> 	<span class="bold"> Burford Capital
+							</span>, New York, NY <br> <span class="italic"> Market Research Summer Analyst </span>
+
+							<ul class="bullets"> 
+								<li> Wrote and presented 50+ page research deck including valuation and timeline of upcoming legal settlements</li>
+								<li>Financially modelled(IRR) and performed due diligence on pending investments </li>
+								<li>Helped research Gravitational Microlensing occurences in the near future</li>
+							</ul>	
+
+					</td>	
+				</tr>
+				
+			</table>	
+			
+
+
+		<h2> Skills</h2>
+			<table>
+				<tr>
+					<td>
+						<ul class="bullets">
+							<li>Proficient in Microsoft Office Suite</li>
+							<li>Langauges & Softwarre: C++, Java, VBA, Jira, Trello,SAS/R </li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+
+
+		<h2> Activities</h2>
+			<table>
+				<tr>
+					<td>
+						<ul class="bullets">
+							<li>Tufts Consulting Collective, <span class="italic">Project Manger</span></li>
+							<li>Tufts Finanical Group, <span class="italic">Real Estate Lead Analyst</span></li>
+							<li>Tufts Men Rugby, <span class="italic">A-Side Center Back</span></li>
+						</ul>	
+					</td>
+
+				</tr>
+			</table>
+	
+	</body>
+</html>	
+
+<html>
