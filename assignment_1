@@ -1,0 +1,79 @@
+/* 
+Rules for CSS
+	Min of 5 rules
+	No frames
+	ALL styling made in CSS, none in HTML
+*/
+
+body {
+      background-color: #999966;
+}
+
+h1 {	
+	margin-left: 20%;
+	margin-right: 20%;
+    color: #FFE658;
+    text-align: center;
+    font-family: Georgia;    
+}
+
+p {
+    font-family: "Georgia";
+    font-size: 20px;
+}
+ 
+
+.bold{
+	font-weight: bold;
+}
+
+.italic{
+	font-style: italic;
+}
+ul#button-nav {
+  margin:10px;
+  margin-left: 1%; 
+  margin-right: 30%; 
+  width:500%
+}
+
+ul#button-nav li {
+  display:inline-block;
+}
+
+ul#button-nav li a {
+  text-decoration:none;
+  padding:1%;
+  width:100%;
+  background:#404040;
+  color:#FFE658;
+  float:left;
+  text-align:center;
+  border-left:3px solid #fff;
+}
+
+ul#button-nav li a:hover {
+  background:#404040;
+  background:#ffffff;
+  color:#000
+}
+
+table{
+	border-spacing: px;
+	width: 100%;
+}
+
+td{
+	padding: 15px;
+}
+
+
+ul.bullets{
+	list-style-type: circle;
+}
+
+img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
